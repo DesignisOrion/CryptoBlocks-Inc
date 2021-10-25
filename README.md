@@ -1,4 +1,4 @@
-# Crypto Blocks Inc. Website
+# CryptoBlocks Inc.
 
 A blockchain company website built using Bootstrap 5 framework. 
 
