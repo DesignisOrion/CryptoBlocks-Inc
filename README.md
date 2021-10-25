@@ -1,17 +1,17 @@
-# Product Landing Page
+# Crypto Blocks Inc. Website
 
-A Simple Product Landing Page.
+A blockchain company website built using Bootstrap 5 framework. 
 
 ## Description
 
-A landing page that implement authentication 
+A blockchain company website that focuses around the framework of Bootstrap5 and Moralis SDK. The goal was to implement Metamask authentication option. Also included the API request option for Token Price Checker allowing users to lookup via token address. 
 
 ## Getting Started
 
 ### Dependencies
 
 * Bootstrap 5 CDN
-* JS / Popper CDN
+* Moralis SDK
 
 ### Installing
 
@@ -29,6 +29,7 @@ A landing page that implement authentication
 ## Help
 
 Please be sure you have the Bootstrap 5 CDN links added within the index.html file for the landing page to appear correctly. 
+Moralis SDK
 
 ## Authors
 
@@ -51,3 +52,5 @@ No License
 
 Inspiration, code snippets, etc.
 * [Bootstrap 5 ](https://getbootstrap.com)
+* [Moralis SDK ](https://moralis.io)
+* 
