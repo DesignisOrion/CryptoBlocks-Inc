@@ -15,13 +15,19 @@ A blockchain company website that focuses around the framework of Bootstrap5 and
 
 ### Installing
 
-* Add the Bootstrap5 CDN
+* Add the Bootstrap5 CDN in the <head> </head> section of index.html
 ```
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
 ```
+* Add the Moralis API Keys to the metamask.js file from your Moralis.io account.
+* Add the Moralis SDK to the index.html.
+```
+<script src="https://cdn.jsdelivr.net/npm/web3@latest/dist/web3.min.js"></script>
 
+<script src="https://unpkg.com/moralis/dist/moralis.js"></script> 
+```
 ### Executing program
 
 * Live Page: 
@@ -35,8 +41,8 @@ Moralis SDK
 
 Contributors names and contact info
 
-ex. Orion Ford 
-ex. [Website](https://www.DesignIsOrion.com)
+Orion Ford 
+[Website](https://www.DesignIsOrion.com)
 
 ## Version History
 
