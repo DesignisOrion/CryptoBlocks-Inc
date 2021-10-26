@@ -1,10 +1,12 @@
 # CryptoBlocks Inc.
 
-A blockchain company website built using Bootstrap 5 framework. 
+A blockchain company dApp built using Bootstrap 5 framework and Moralis SDK.
+
+<img src="https://github.com/DesignisOrion/CryptoBlocks-Inc/blob/main/img/Screenshot%20(11).png" alt=""/>
 
 ## Description
 
-A blockchain company website that focuses around the framework of Bootstrap5 and Moralis SDK. The goal was to implement Metamask authentication option. Also included the API request option for Token Price Checker allowing users to lookup via token address. 
+A blockchain company dApp that focuses around the framework of Bootstrap5 and Moralis SDK. The goal was to implement Metamask authentication option. Also included the API request option for Token Price Checker allowing users to lookup via token address. 
 
 ## Getting Started
 
