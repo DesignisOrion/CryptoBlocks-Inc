@@ -8,7 +8,7 @@ A blockchain company website that focuses around the framework of Bootstrap5 and
 
 ## Getting Started
 
-### https://designisorion.github.io/CryptoBlocks-Inc/Dependencies
+### Dependencies
 
 * Bootstrap 5 CDN
 * Moralis SDK
