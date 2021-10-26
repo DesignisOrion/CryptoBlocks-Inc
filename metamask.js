@@ -1,5 +1,5 @@
-const serverUrl = "https://f2sieotb2933.moralishost.com:2053/server";
-const appId = "FWiojOYpBOA8PMcsF1XI8gaNbMdCRn5axry07ths";
+const serverUrl = "<server id>";
+const appId = "<api id>";
 Moralis.start({ serverUrl, appId });
 /* Authentication code */
 async function login() {
