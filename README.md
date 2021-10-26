@@ -12,6 +12,7 @@ A blockchain company website that focuses around the framework of Bootstrap5 and
 
 * Bootstrap 5 CDN
 * Moralis SDK
+   - API ID and Server will be needed for functionality.
 
 ### Installing
 
