@@ -8,7 +8,7 @@ A blockchain company website that focuses around the framework of Bootstrap5 and
 
 ## Getting Started
 
-### Dependencies
+### https://designisorion.github.io/CryptoBlocks-Inc/Dependencies
 
 * Bootstrap 5 CDN
 * Moralis SDK
@@ -31,7 +31,7 @@ A blockchain company website that focuses around the framework of Bootstrap5 and
 ```
 ### Executing program
 
-* Live Page: 
+* Live Page: https://designisorion.github.io/CryptoBlocks-Inc/
 
 ## Help
 
@@ -43,7 +43,7 @@ Moralis SDK
 Contributors names and contact info
 
 Orion Ford 
-[Website](https://www.DesignIsOrion.com)
+[DesignIsOrion.com](https://www.DesignIsOrion.com)
 
 ## Version History
 
